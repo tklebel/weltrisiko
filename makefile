@@ -4,7 +4,7 @@ index.html: main.md style.css
 	pandoc -t "revealjs"  $(<F) -o $(@F) --smart --standalone --toc --toc-depth=1 \
 	-V revealjs-url:reveal.js \
 	-V theme=beige \
-	--css=forschungsvorhaben.css \
+	--css=style.css \
 	-V transition=convex 
 
 
