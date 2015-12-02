@@ -53,6 +53,12 @@
 	width: 100%;
 }
 
+/* Quotes */
+.reveal blockquote {
+	font-style: normal;
+	text-align: justify;
+}
+
 
 /*********************
 * Title-Slide
