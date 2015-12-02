@@ -7,4 +7,4 @@ The presentation is powered by [reveal.js](https://github.com/hakimel/reveal.js)
 Content is written to `main.md`, which is then converted with the `makefile` to `index.html`. Styling is done via `style.css`.
 
 
-Visit the presentation at: [tklebel.github.io/weltrisiko](tklebel.github.io/weltrisiko)
+Visit the presentation at: [tklebel.github.io/weltrisiko](http://tklebel.github.io/weltrisiko)
