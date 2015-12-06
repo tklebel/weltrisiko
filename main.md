@@ -9,7 +9,7 @@ date: 10 Dezember 2015
 --- 
 
 
-> Unberechenbare Risiken und hergestellte Unsicherheiten, die aus den Siegen der Moderne hervorgegangen sind, charakterisieren die *conditio humana* am Beginn des 21. Jahrhunderts.
+> "Unberechenbare Risiken und hergestellte Unsicherheiten, die aus den Siegen der Moderne hervorgegangen sind, charakterisieren die *conditio humana* am Beginn des 21. Jahrhunderts."
 
 
 # Risiko
@@ -17,11 +17,11 @@ date: 10 Dezember 2015
 ---
 
 
-> **Unberechenbare Risiken** und hergestellte Unsicherheiten, die aus den Siegen der Moderne hervorgegangen sind, charakterisieren die *conditio humana* am Beginn des 21. Jahrhunderts.
+> "**Unberechenbare Risiken** und hergestellte Unsicherheiten, die aus den Siegen der Moderne hervorgegangen sind, charakterisieren die *conditio humana* am Beginn des 21. Jahrhunderts."
 
 ## Risikodefinition
 
-> *Risiken sind soziale Konstruktionen und Definitionen auf dem Hintergrund entsprechender Definitionsverhältnisse.*
+> "*Risiken sind soziale Konstruktionen und Definitionen auf dem Hintergrund entsprechender Definitionsverhältnisse.*"
 
 <div class="fragment current-visible">
 - Wer entscheidet über die Gefährlichkeit [...] von Produkten, Gefahren und Risiken?
@@ -39,7 +39,7 @@ date: 10 Dezember 2015
 ---
 
 
-> Unberechenbare Risiken und **hergestellte Unsicherheiten**, die aus den **Siegen der Moderne** hervorgegangen sind, charakterisieren die *conditio humana* am Beginn des 21. Jahrhunderts.
+> "Unberechenbare Risiken und **hergestellte Unsicherheiten**, die aus den **Siegen der Moderne** hervorgegangen sind, charakterisieren die *conditio humana* am Beginn des 21. Jahrhunderts."
 
 
 ## Reflexive Modernisierung
@@ -48,13 +48,16 @@ Reflexiv = Reflexion?
 
 *Nebenfolgen* der Modernisierung
 
+<div class="fragment current-visible">
+>"Ohne Bewußtsein, im Widerspruch zu den eigenen Plänen handelnd, untergräbt Modernisierung Modernisierung."
+</div>
 
 
 # Kosmopolitismus
 
 ## Kosmopolitisches Moment
 
-> Gloable Risiken eröffnen einen moralischen und politischen Raum, aus dem eine über Grenzen und Gegensätze hinweggreifend zuvile Kultur der Verantwortung hervorgehen *kann*. 
+> "Gloable Risiken eröffnen einen moralischen und politischen Raum, aus dem eine über Grenzen und Gegensätze hinweggreifende zivile Kultur der Verantwortung hervorgehen *kann*."
 
 ## Methodologischer Nationalismus
 
@@ -63,6 +66,10 @@ Reflexiv = Reflexion?
 - National-soziologische Selbstanalyse
 - Komparatistik
 
+--- 
+
+
+> "Unberechenbare Risiken und hergestellte Unsicherheiten, die aus den Siegen der Moderne hervorgegangen sind, charakterisieren die *conditio humana* am Beginn des 21. Jahrhunderts."
 
 
 
