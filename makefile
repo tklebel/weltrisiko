@@ -18,6 +18,6 @@ live:
 
 handout_klebel.pdf: handout.md
 	pandoc $(<F) -o $(@F) --smart --standalone --number-sections --filter pandoc-citeproc \
-	--template=excerpt.tex --data-dir=/Users/thomask/Documents/LaTeX/pandoc 
+	--template=excerpt.tex --data-dir=/Users/thomask/Documents/LaTeX/pandoc --variable urlcolor=blue 
 
 
