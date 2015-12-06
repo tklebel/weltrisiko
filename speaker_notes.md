@@ -6,9 +6,9 @@ date: "10.12.2015"
 ---
 
 # Einleitung
-Referat über "Weltrisikogesellschaft -- Auf der Suche nach der verlorenen Sicherheit" von Ulrich Beck, erschienen 2007.
+Referat über "Weltrisikogesellschaft -- Auf der Suche nach der verlorenen Sicherheit" von Ulrich Beck, erschienen 2008.
 
-Ulrich Beck: deutscher Soziologie, vor fast einem Jahr verstorben, bekannt für Risikogesellschaft und Individualisierungsthese "Jenseits von Stand und Klasse".
+Ulrich Beck: deutscher Soziologie, Anfang des Jahres verstorben, bekannt für Risikogesellschaft und Individualisierungsthese "Jenseits von Stand und Klasse".
 
 ---
 
@@ -39,7 +39,7 @@ Keine Analyse *aller* Risiken -> Analyse der "ökologischen, ökonomischen und t
 
 Risiko, also Möglichkeit der Katastrophe, wird "zu einer politischen Kraft, die die Welt verändert", "da diese ständige Bedrohung unsere Erwartungen bestimmt, unsere Köpfe besetzt und unser Handeln leitet".
 
-Starke These, komme mit kosmopolitischen Moment darauf zurück
+Starke These, komme mit kosmopolitischen Moment darauf zurück.
 
 ---
 
