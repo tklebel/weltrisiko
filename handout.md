@@ -7,9 +7,9 @@ bibliography: handout.bib
 csl: american-sociological-review.csl
 ---
 
-> Unberechenbare Risiken und hergestellte Unsicherheiten, die aus den Siegen der Moderne hervorgegangen sind, charakterisieren die *conditio humana* am Beginn des 21. Jahrhunderts.
+> Unberechenbare Risiken und hergestellte Unsicherheiten, die aus den Siegen der Moderne hervorgegangen sind, charakterisieren die *conditio humana* am Beginn des 21. Jahrhunderts. [@beck_weltrisikogesellschaft:_2008, 341]
 
-In Anlehnung an @zima_moderne/postmoderne:_1997 lässt sich sagen, dass Beck den Begriff der Moderne sehr stark als Epochenbegriff versteht, und die "Moderne" mit "Neuzeit" tendenziell in eins setzt. In seinen Ausführungen über die "Risikogesellschaft" wird sein Verständnis der Moderne deutlich: "Risikogesellschaft [...] bezieht sich insofern nicht auf die Erste [sic!], industriegesellschaftliche nationalstaatliche Moderne des 19. und beginnenden 20. Jahrhunderts, sondern auf die Entfaltung neuer Risiken, die in der zweiten Hälfte des 20. Jahrhunderts beginnt" [@beck_weltrisikogesellschaft:_2008, 26]. Um Becks Verständnis der Moderne zu begreifen, ist zuerst der Begriff des Risikos näher zu beleuchten.
+<!-- In Anlehnung an @zima_moderne/postmoderne:_1997 lässt sich sagen, dass Beck den Begriff der Moderne sehr stark als Epochenbegriff versteht, und die "Moderne" mit "Neuzeit" tendenziell in eins setzt. In seinen Ausführungen über die "Risikogesellschaft" wird sein Verständnis der Moderne deutlich: "Risikogesellschaft [...] bezieht sich insofern nicht auf die Erste [sic!], industriegesellschaftliche nationalstaatliche Moderne des 19. und beginnenden 20. Jahrhunderts, sondern auf die Entfaltung neuer Risiken, die in der zweiten Hälfte des 20. Jahrhunderts beginnt" [@beck_weltrisikogesellschaft:_2008, 26]. Um Becks Verständnis der Moderne zu begreifen, ist zuerst der Begriff des Risikos näher zu beleuchten. -->
  
 
 # Risiko
@@ -19,7 +19,7 @@ Was bedeutet "Risiko"? In der *Weltrisikogesellschaft* spricht Beck vom Risiko a
 Beck versucht keine Analyse *aller* Risiken, denen Gesellschaft und Individuen ausgesetzt sind, er beschränkt sich auf die Analyse der "ökologischen, ökonomischen und terroristischen Globalrisiken." (49)
 
 ## Risikodefinition
-Risiken sind in diesem Zusammenhang keine Wahrscheinlichkeiten für das Eintreten einer Katastrophe (im Sinne einer Risikokalkulation durch eine Chemiefabrik für die Wahrscheinlichkeit eines Chemieunfalls). "*Risiken sind soziale Konstruktionen und Definitionen auf dem Hintergrund entsprechender Definitionsverhältnisse.*". (66) Die Analogie zu Marx' "Produktionsverhältnissen" ist durchaus intendiert. Es geht dabei Beck dabei um folgende Fragen:
+Risiken sind in diesem Zusammenhang keine Wahrscheinlichkeiten für das Eintreten einer Katastrophe (im Sinne einer Risikokalkulation durch eine Chemiefabrik für die Wahrscheinlichkeit eines Chemieunfalls). "*Risiken sind soziale Konstruktionen und Definitionen auf dem Hintergrund entsprechender Definitionsverhältnisse.*". (66) Die Analogie zu Marx' "Produktionsverhältnissen" ist durchaus intendiert. Es geht Beck dabei um folgende Fragen:
 
 - "Wer entscheidet über die Gefährlichkeit [...] von Produkten, Gefahren und Risiken?"
 - "Welche Art von Wissen und Nichtwissen über die Ursachen, Dimensionen, Akteure ist damit verbunden?"
