@@ -44,21 +44,26 @@ date: 10 Dezember 2015
 
 ## Reflexive Modernisierung
 
-## Basisprinzipien \& -institutionen
-<!-- placeholder -->
+Reflexiv = Reflexion?
 
-## Nichtwissen
-
+*Nebenfolgen* der Modernisierung
 
 
 
 # Kosmopolitismus
 
+## Kosmopolitisches Moment
+
+> Gloable Risiken eröffnen einen moralischen und politischen Raum, aus dem eine über Grenzen und Gegensätze hinweggreifend zuvile Kultur der Verantwortung hervorgehen *kann*. 
+
 ## Methodologischer Nationalismus
 
-## Methodologischer Kosmopolitismus
+- Implizite Vorannahmen der Soziologie
 
-## Kosmopolitisches Element
+- National-soziologische Selbstanalyse
+- Komparatistik
+
+
 
 
 
