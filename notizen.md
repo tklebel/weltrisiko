@@ -98,8 +98,20 @@ Weglassen?
 
 
 ## Kosmopolilitismus
+Allgemein gesprochen ist (normativ/politischer) Kosmopolitismus nach Beck ein soziologischer Begriff, der im Gegensatz zu Nationalismus, Multikulturalismus etc. die Einbeziehung des (kulturell) Anderen zur Realität und/oder Maxime macht. (Vgl 110)
+
+Unter dem Begriff des *kosmopolitischen Moments* versteht Beck Möglichkeiten -eines Neuanfanges, die sich in der Folge der Globalisierung der Risiken ergeben. Dieser Neuanfang könnte zu einer Neuerfindung aller Basisinstitutionen der modernen Nationalgesellschaft führen. (Vgl. 96ff.) Unter *Basisinstitutionen* versteht Beck hierbei Dinge wie Vollbeschäftigung, wohlfahrtsstaatliche Pensionsversicherung, etc.
+
+> Gloable Risiken eröffnen einen moralischen und politischen Raum, aus dem eine über Grenzen und Gegensätze hinweggreifend zuvile Kultur der Verantwortung hervorgehen *kann*. (111)
+
+Erzwungener Kosmopolitismus meint: "Globale Risiken aktivieren und verbinden über Grenzen hinweg Aktuere, die sonst nichts miteinander zu tun haben möchten." (119)
 
 
+Verknüpft mit dem Kosmopolitismus ist Becks Kritik am methodologischen Nationalismus:
+
+Methodologischer Nationalismus sei nach Beck eher metaphorisch gemeint. Es gehe nicht darum eine Methodologie des Nationalen zu kritisieren, sondern ein Set an impliziten Annahmen, die der manch soziologischer Herangehensweise zugrunde liegen zu hinterfragen. Sein Argument ist, dass es für eine angemessene Analyse ungleichheits- sowie risikosoziologischer Themen einen methodologischen Kosmopolitismus brauche. (297)
+
+Beck kritisiert die Unterstellung einer nationalstaatlich organisierten und begrenzten Gesellschaft, die im Rahmen zweier Varianten untersucht wird: Die national-soziologische Selbstanalyse (Sozialstrukturanalyse Deutschlands durch Deutsche), sowie die Komparatistik (Vergleich zwischen Nationalgesellschaften). Diese sei blind für die Folgen der Entgrenzung der Gefahren. (298ff.) Auch würde die Begrenzung auf Nationalgesellschaften verschleiern, dass sich zwischen den Staaten Hierarchien bilden, die Definitionen von Nebenfolgen schaffen. (301)
 
 ## Ungleichheit
 Beck räumt ein, dass die im Zuge der *Risikogesellschaft* aufgestellte Behauptung, die Risiken würden alle Personen "jenseits von Stand und Klasse" treffen, zwar stimmen, sie sei aber zu undifferenziert. Deshalb führt er die Kategorie der "sozialen/lokalen Verbundbarkeit" ein, mit der er greifbar machen möchte, dass bestimmte Gruppen stärker von Risiken betroffen sein können als andere. Allerdings ist er in seinen Ausführungen zur Ungleichheitsthematik nicht konsistent.
