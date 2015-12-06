@@ -1,4 +1,4 @@
-all: index.html 
+all: index.html handout_klebel.pdf
 
 index.html: main.md style.css
 	pandoc -t "revealjs"  $(<F) -o $(@F) --smart --standalone --toc --toc-depth=1 \
@@ -16,5 +16,8 @@ live:
 	git checkout master
 
 
-# handout_klebel.pdf: handout.md
-# 	pandoc $(<F) -o $(@F) --smart --standalone
+handout_klebel.pdf: handout.md
+	pandoc $(<F) -o $(@F) --smart --standalone --number-sections --filter pandoc-citeproc \
+	--template=excerpt.tex --data-dir=/Users/thomask/Documents/LaTeX/pandoc 
+
+
