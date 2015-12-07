@@ -24,10 +24,10 @@ date: 10 Dezember 2015
 > "*Risiken sind soziale Konstruktionen und Definitionen auf dem Hintergrund entsprechender Definitionsverhältnisse.*"
 
 <div class="fragment current-visible">
-- Wer entscheidet über die Gefährlichkeit [...] von Produkten, Gefahren und Risiken?
-- Welche Art von Wissen und Nichtwissen über die Ursachen, Dimensionen, Akteure ist damit verbunden?
-- Was gilt als 'Beweis' in einer Welt, in der [...] alles Wissen umstritten und probabilistisch ist?
-- Wer entscheidet über die Kompensation für die Geschädigten?
+- "Wer entscheidet über die Gefährlichkeit [...] von Produkten, Gefahren und Risiken?"
+- "Welche Art von Wissen und Nichtwissen über die Ursachen, Dimensionen, Akteure ist damit verbunden?"
+- "Was gilt als 'Beweis' in einer Welt, in der [...] alles Wissen umstritten und probabilistisch ist?"
+- "Wer entscheidet über die Kompensation für die Geschädigten?"
 </div>
 
 ## Wahrnehmung des Risikos
@@ -57,7 +57,7 @@ Reflexiv = Reflexion?
 
 ## Kosmopolitisches Moment
 
-> "Gloable Risiken eröffnen einen moralischen und politischen Raum, aus dem eine über Grenzen und Gegensätze hinweggreifende zivile Kultur der Verantwortung hervorgehen *kann*."
+> "Globale Risiken eröffnen einen moralischen und politischen Raum, aus dem eine über Grenzen und Gegensätze hinweggreifende zivile Kultur der Verantwortung hervorgehen *kann*."
 
 ## Methodologischer Nationalismus
 
