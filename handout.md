@@ -38,7 +38,7 @@ Der begriffliche Wechsel von "Risikogesellschaft" auf "Weltrisikogesellschaft" f
 
 
 ## Hergestellte Unsicherheiten
-In der Industriegesellschaft, der *ersten Moderne*, werden nach Beck Risiken zwar systematisch hergesetellt, diese werden aber nicht öffentlich reflektiert und diskutiert [vgl. ebd. -@beck_weltrisikogesellschaft:_2008, 201]. Im Gegensatz dazu zerfalle in der Weltrisikogesellschaft der Glaube daran, dass die Risiken auf nationaler Ebene und durch ein Mehr an Wissen eingedämmt werden können. Dies bezeichnet er als *hergestellte Unsicherheit*, wobei er einräumt, dass der Begriff nicht sehr schlüssig und treffsicher ist.
+In der Industriegesellschaft, der *ersten Moderne*, werden nach Beck Risiken zwar systematisch hergestellt, diese werden aber nicht öffentlich reflektiert und diskutiert [vgl. ebd. -@beck_weltrisikogesellschaft:_2008, 201]. Im Gegensatz dazu zerfalle in der Weltrisikogesellschaft der Glaube daran, dass die Risiken auf nationaler Ebene und durch ein Mehr an Wissen eingedämmt werden können. Dies bezeichnet er als *hergestellte Unsicherheit*, wobei er einräumt, dass der Begriff nicht sehr schlüssig und treffsicher ist.
 
 ## Reflexive Modernisierung
 Das Entstehen von *hergestellten Unsicherheiten* ist einer der Grundgedanken der reflexiven Modernisierung. 
@@ -55,7 +55,7 @@ Unter dem Begriff des *kosmopolitischen Moments* versteht Beck Möglichkeiten ei
 ## Methodologischer Nationalismus
 Verknüpft mit dem Kosmopolitismus ist Becks Kritik am methodologischen Nationalismus. Dabei geht es ihm darum, ein Set an impliziten Annahmen, die manch soziologischer Herangehensweise zugrunde liegen, zu hinterfragen. Sein Argument ist, dass es für eine angemessene Analyse ungleichheits- sowie risikosoziologischer Themen einen methodologischen Kosmopolitismus brauche [vgl. ebd. -@beck_weltrisikogesellschaft:_2008, 297].
 
-Beck kritisiert die Unterstellung einer nationalstaatlich organisierten und begrenzten Gesellschaft, die im Rahmen zweier Varianten untersucht wird: Die national-soziologische *Selbstanalyse* (Sozialstrukturanalyse Deutschlands durch Deutsche), sowie die *Komparatistik* (Vergleich zwischen Nationalgesellschaften). Die erstere sei blind für die Folgen der Entgrenzung der Gefahren [vgl. ebd. -@beck_weltrisikogesellschaft:_2008, 298ff.], die zweitere verschleiere, dass sich zwischen den Staaten Hierarchien bilden, die Definitionen von Nebenfolgen schaffen [vgl. ebd. -@beck_weltrisikogesellschaft:_2008, 301].
+Beck kritisiert die Unterstellung einer nationalstaatlich organisierten und begrenzten Gesellschaft, die im Rahmen zweier Varianten untersucht wird: Die national-soziologische *Selbstanalyse* (Sozialstrukturanalyse Deutschlands durch Deutsche), sowie die *Komparatistik* (Vergleich zwischen Nationalgesellschaften). Erstere sei blind für die Folgen der Entgrenzung der Gefahren [vgl. ebd. -@beck_weltrisikogesellschaft:_2008, 298ff.], Zweitere verschleiere, dass sich zwischen den Staaten Hierarchien bilden, die Definitionen von Nebenfolgen schaffen [vgl. ebd. -@beck_weltrisikogesellschaft:_2008, 301].
 
 # Präsentation
 Die Präsentation kann online eingesehen werden: <https://tklebel.github.io/weltrisiko>.
